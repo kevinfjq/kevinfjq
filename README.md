@@ -16,7 +16,7 @@ My journey in tech has been driven by a deep curiosity and a hands-on approach. 
 
 ## 🚀 My Tech Stack
 ### 💻 Languages
-<img src="https://skillicons.dev/icons?i=java,go,typescript,python,cs,kotlin&theme=dark" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=java,go,typescript,python,cs,kotlin,c&theme=dark" alt="Languages" />
 
 ### 🛠️ Frameworks & Libraries
 <img src="https://skillicons.dev/icons?i=spring,nextjs,react,vue,nest,prisma,dotnet,node&theme=dark" alt="Frameworks" />
