@@ -19,13 +19,13 @@ My journey in tech has been driven by a deep curiosity and a hands-on approach. 
 <img src="https://skillicons.dev/icons?i=java,go,typescript,python,cs,kotlin&theme=dark" alt="Languages" />
 
 ### 🛠️ Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=spring,nextjs,react,fastify&theme=dark" alt="Frameworks" />
+<img src="https://skillicons.dev/icons?i=spring,nextjs,react,vue,nest,prisma,dotnet,node&theme=dark" alt="Frameworks" />
 
 ### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb&theme=dark" alt="Databases" />
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,supabase,sqlite,h2&theme=dark" alt="Databases" />
 
 ### ☁️ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,docker,git,linux&theme=dark" alt="Cloud & DevOps" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,linux&theme=dark" alt="Cloud & DevOps" />
 
 ---
 
