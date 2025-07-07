@@ -37,7 +37,7 @@ My journey in tech has been driven by a deep curiosity and a hands-on approach. 
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinfjq&layout=compact&theme=dark&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinfjq&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&hide=html,css"/>
 </div>
 
 ---
